@@ -1,0 +1,20 @@
+body{
+	background-size:cover;
+}
+.nav{
+	background:white;
+	margin-top:-5px;
+}
+.nav a{
+	color:black;
+	text-align:center;
+	padding:20px 16px;	
+	font-size:30px;
+	width:100px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.nav a:hover{
+	background:purple;
+	color:white;
+}
